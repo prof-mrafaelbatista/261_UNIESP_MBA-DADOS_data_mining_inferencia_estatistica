@@ -43,10 +43,10 @@ The approach is predominantly practical (**70% hands-on**), using **Python on Go
 
 ```
 📦 data-mining-inferencia-estatistica
- ┣ 📂 samples/          # Code presented in class
- ┣ 📂 notebooks/        # Jupyter Notebooks from practical classes
- ┣ 📂 datasets/         # Datasets used in exercises
  ┣ 📂 activities/       # Activities and proposed challenges
+ ┣ 📂 datasets/         # Datasets used in exercises
+ ┣ 📂 notebooks/        # Jupyter Notebooks from practical classes
+ ┣ 📂 samples/          # Code presented in class
  ┗ 📄 README.md
 ```
 
